@@ -1,1 +1,1 @@
-Hello from main , written in main branch 
+Hello from main
